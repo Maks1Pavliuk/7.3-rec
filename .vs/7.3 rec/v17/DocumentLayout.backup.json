@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yande\\source\\repos\\7.3 rec\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86144283-FDD0-409D-B7F2-119415DA76EA}|UnitTest1\\UnitTest1.vcxproj|C:\\Users\\yande\\source\\repos\\7.3 rec\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{86144283-FDD0-409D-B7F2-119415DA76EA}|UnitTest1\\UnitTest1.vcxproj|solutionrelative:UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54DC80F2-A8DE-4ADA-AC62-E2C0CC4E6AF1}|7.3 rec\\7.3 rec.vcxproj|C:\\Users\\yande\\source\\repos\\7.3 rec\\7.3 rec\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{54DC80F2-A8DE-4ADA-AC62-E2C0CC4E6AF1}|7.3 rec\\7.3 rec.vcxproj|solutionrelative:7.3 rec\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cpp",
+              "DocumentMoniker": "C:\\Users\\yande\\source\\repos\\7.3 rec\\UnitTest1\\UnitTest1.cpp",
+              "RelativeDocumentMoniker": "UnitTest1\\UnitTest1.cpp",
+              "ToolTip": "C:\\Users\\yande\\source\\repos\\7.3 rec\\UnitTest1\\UnitTest1.cpp",
+              "RelativeToolTip": "UnitTest1\\UnitTest1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-29T16:26:20.888Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\yande\\source\\repos\\7.3 rec\\7.3 rec\\Source.cpp",
+              "RelativeDocumentMoniker": "7.3 rec\\Source.cpp",
+              "ToolTip": "C:\\Users\\yande\\source\\repos\\7.3 rec\\7.3 rec\\Source.cpp",
+              "RelativeToolTip": "7.3 rec\\Source.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-29T16:24:00.635Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
